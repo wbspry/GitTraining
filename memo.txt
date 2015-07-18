@@ -1,0 +1,2 @@
+画面最大化:
+control + command + f
