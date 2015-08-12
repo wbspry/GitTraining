@@ -10,3 +10,6 @@ feature-Aに追加
 - fix-C
 
 - feature-D
+
+
+- local add feature-D
