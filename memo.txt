@@ -1,2 +1,12 @@
 画面最大化:
 control + command + f
+
+
+
+
+git checkout BRANCH_NAME
+
+とすると、指定したブランチに切り替わる。
+今操作しているブランチは消えてなくなる。
+これがすごい。
+
