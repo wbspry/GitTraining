@@ -6,3 +6,5 @@ feature-Aに追加
 
 
 - fix-B
+
+- fix-C
