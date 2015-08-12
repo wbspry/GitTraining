@@ -3,3 +3,9 @@ Gitチュートリアル
 
 - feature-A
 feature-Aに追加
+
+
+
+
+
+fix-C
