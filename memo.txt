@@ -10,3 +10,6 @@ git checkout BRANCH_NAME
 今操作しているブランチは消えてなくなる。
 これがすごい。
 
+
+git log --graph
+これでログがいい感じに視覚的に見える
